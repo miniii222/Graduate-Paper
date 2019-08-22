@@ -9,6 +9,7 @@ Balázs et al., ICLR, 2016.
 - https://github.com/hidasib/GRU4Rec (original code) : theano로 구현, RecSys2015
 - https://github.com/Songweiping/GRU4Rec_TensorFlow : theano -> tensorlow implementation
 - https://github.com/khlee88/GRU4Rec_tutorial : tensorflow tutorial
+- https://github.com/pcerdam/KerasGRU4Rec : keras ver
   
 2. [***Improving Session Recommendation with Recurrent Neural Networks by Exploiting Dwell Time***](https://arxiv.org/pdf/1706.10231.pdf)
 Alexander et al., 2017
