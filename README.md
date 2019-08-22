@@ -10,6 +10,7 @@ Balázs et al., ICLR, 2016.
 - https://github.com/Songweiping/GRU4Rec_TensorFlow : theano -> tensorlow implementation
 - https://github.com/khlee88/GRU4Rec_tutorial : tensorflow tutorial
 - https://github.com/pcerdam/KerasGRU4Rec : keras ver
+- https://github.com/yhs-968/pyGRU4REC : pyTorch ver
   
 2. [***Improving Session Recommendation with Recurrent Neural Networks by Exploiting Dwell Time***](https://arxiv.org/pdf/1706.10231.pdf)
 Alexander et al., 2017
