@@ -18,3 +18,7 @@ Alexander et al., 2017
 
 3.[***Incorporating Dwell Time in Session-Based Recommendations with Recurrent Nerual Networks***](http://ceur-ws.org/Vol-1922/paper11.pdf)
 Veronika et al., RecSys2017
+
+
+# 과정 정리
+- [2019-08-24] keras 소스코드 이용해서 모델 돌아가는 거 확인!(GPU 사용), class를 이용해서 데이터 로드하는 거까지 대강 파악!
