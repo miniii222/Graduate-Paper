@@ -18,7 +18,9 @@ Alexander et al., 2017
 
 3.[***Incorporating Dwell Time in Session-Based Recommendations with Recurrent Nerual Networks***](http://ceur-ws.org/Vol-1922/paper11.pdf)
 Veronika et al., RecSys2017
-
+- 1번 논문 방법에 dwelling time만 적용하여 비교한 논문
+- 상당한 차이 있음.
+- dwelling time에 따라 세션 수 를 증가시켜 
 
 ### 과정 정리
 - [2019-08-23] 교수님께 논문 방향 컨펌. 모델 설명 잘 정리할 수 있을지..?
