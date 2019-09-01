@@ -23,3 +23,9 @@ Veronika et al., RecSys2017
 ### 과정 정리
 - [2019-08-23] 교수님께 논문 방향 컨펌. 모델 설명 잘 정리할 수 있을지..?
 - [2019-08-24] keras 소스코드 이용해서 모델 돌아가는 거 확인!(GPU 사용, 1epoch : 1시간 30분정도 걸림), class를 이용해서 데이터 로드하는 거까지 대강 파악! SessionDataLoader의 iter를 이용하여 yield되는 **inp, target, mask** 원리 파악이 더 필요함.
+- [2019-09-01] 한 epoch당 90분 정도 거림.(negative sampling하지 않은 keras 코드 사용) 
+
+** 논문 방향**
+- 동일 데이터로 파라미터 조정, lr, batch_size, optimizer 등등
+- dwelling time 이용하여 session수 늘리는 건 어렵지 않을 듯
+
