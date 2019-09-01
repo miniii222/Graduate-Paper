@@ -23,6 +23,9 @@ Veronika et al., RecSys2017
 - dwelling time에 따라 세션 수 를 증가시켜 
 
 4.[***Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation***](https://arxiv.org/pdf/1406.1078.pdf) Cho et al., arXiv:1406.1078
+- GRU paper
+
+
 ### 과정 정리
 - [2019-08-23] 교수님께 논문 방향 컨펌. 모델 설명 잘 정리할 수 있을지..?
 - [2019-08-24] keras 소스코드 이용해서 모델 돌아가는 거 확인!(GPU 사용, 1epoch : 1시간 30분정도 걸림), class를 이용해서 데이터 로드하는 거까지 대강 파악! SessionDataLoader의 iter를 이용하여 yield되는 **inp, target, mask** 원리 파악이 더 필요함.
